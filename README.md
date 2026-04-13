@@ -8,13 +8,7 @@
 ### Implementation
 AI Agent Server, Bridge Server, and Notification Scheduler implementation.
 
-🔗 https://github.com/DiviSasiSai/Eduplus_servers
-
-### Mobile Application
-Flutter-based mobile application for student interaction and notifications.
-
-🔗 https://github.com/DiviSasiSai/Eduplus_Mobile_App
-
+🔗 https://github.com/Y22ACS470/Deepfake/tree/main
 
 ## Overview
 
@@ -117,6 +111,5 @@ Bapatla Engineering College
 The source code for the EduPlus system is available in the following repositories:
 
 ### Backend Servers
-AI Agent Server, Bridge Server, and Notification Scheduler implementation.
 
-🔗 https://github.com/DiviSasiSai/Eduplus_servers
+🔗 https://github.com/Y22ACS470/Deepfake/tree/main
